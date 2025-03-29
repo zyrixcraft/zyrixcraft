@@ -1,16 +1,15 @@
-## Hi there 👋
+🚀 Welcome to **ZyrixCraft** – Your AI-Powered Web & App Development Agency!  
 
-<!--
-**zyrixcraft/zyrixcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We specialize in:  
+🔹 **Next-Gen Websites** – High-performance, futuristic designs (React, Next.js, Vite.js)  
+🔹 **AI-Powered Solutions** – Smart automation, chatbots, and AI-driven applications  
+🔹 **E-Commerce & Business Websites** – Scalable, secure, and user-friendly  
+🔹 **Data Analysis & Visualization** – Power BI, Python, and SQL insights  
+🔹 **No-Code/Low-Code Development** – Fast and efficient solutions  
 
-Here are some ideas to get you started:
+💡 **Transforming ideas into reality with cutting-edge technology!**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect:  
+🌐 Website: [zyrixcraft.in](#)  
+📧 Email: zyrixcraft@gmail.com  
+🚀 Building the future, one line of code at a time!  
